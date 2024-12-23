@@ -1,0 +1,8 @@
+time=2024-12-23T15:43:04.909+05:00 level=INFO msg=---------------------------
+time=2024-12-23T15:43:04.909+05:00 level=INFO msg="Screen size: %d, %d" width=99 height=36
+time=2024-12-23T15:43:05.409+05:00 level=INFO msg="fps sleep time" st=16.666ms
+time=2024-12-23T15:43:09.221+05:00 level=INFO msg="q pressed, exiting"
+time=2024-12-23T15:48:43.173+05:00 level=INFO msg=---------------------------
+time=2024-12-23T15:48:43.173+05:00 level=INFO msg="Screen size: %d, %d" width=99 height=36
+time=2024-12-23T15:48:43.674+05:00 level=INFO msg="fps sleep time" st=16.666ms
+time=2024-12-23T15:48:47.214+05:00 level=INFO msg="q pressed, exiting"
